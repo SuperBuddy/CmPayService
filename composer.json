@@ -1,5 +1,5 @@
 {
-    "name": "cjsdevelopment/cmpayservice",
+    "name": "superbuddy/cmpayservice",
     "description": "Use the CM Pay service with Laravel",
     "type": "library",
     "license": "MIT",
@@ -15,11 +15,11 @@
 
     "autoload": {
       "psr-4": {
-        "CJSDevelopment\\": "src/"
+        "SuperBuddy\\": "src/"
       }
     },
     "require" : {
-      "guzzlehttp/guzzle": "~5.0"
+      "guzzlehttp/guzzle": "~6.0"
 
     }
 }
